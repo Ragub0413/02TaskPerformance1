@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2010\Projects\02TaskPerformance1\02TaskPerformance1\bin\Debug\02TaskPerformance1.exe
+c:\users\user\documents\visual studio 2010\Projects\02TaskPerformance1\02TaskPerformance1\bin\Debug\02TaskPerformance1.pdb
+c:\users\user\documents\visual studio 2010\Projects\02TaskPerformance1\02TaskPerformance1\obj\x86\Debug\_02TaskPerformance1.QueuingForm.resources
+c:\users\user\documents\visual studio 2010\Projects\02TaskPerformance1\02TaskPerformance1\obj\x86\Debug\_02TaskPerformance1.CashierWindowQueue.resources
+c:\users\user\documents\visual studio 2010\Projects\02TaskPerformance1\02TaskPerformance1\obj\x86\Debug\_02TaskPerformance1.CustomerViewForm.resources
+c:\users\user\documents\visual studio 2010\Projects\02TaskPerformance1\02TaskPerformance1\obj\x86\Debug\_02TaskPerformance1.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\02TaskPerformance1\02TaskPerformance1\obj\x86\Debug\02TaskPerformance1.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\02TaskPerformance1\02TaskPerformance1\obj\x86\Debug\02TaskPerformance1.exe
+c:\users\user\documents\visual studio 2010\Projects\02TaskPerformance1\02TaskPerformance1\obj\x86\Debug\02TaskPerformance1.pdb
